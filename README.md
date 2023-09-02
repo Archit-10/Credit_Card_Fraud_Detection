@@ -1,9 +1,9 @@
 # Credit_Card_Fraud_Detection
 
-Overview
+Overview:
 This project focuses on detecting credit card fraud using a Logistic Regression Classifier. It employs techniques like SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance and fine-tuning through Grid Search to optimize model performance. The resulting model achieved a ROC-AUC curve value of approximately 0.982, indicating strong predictive power.
 
-Project Structure
+Project Structure:
 credit_card_fraud_detection.ipynb: Jupyter Notebook containing the complete code and analysis of the project.
 
 data/: Directory to store the dataset used for training and testing the model.
@@ -24,7 +24,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn
 
 Usage
 i).Clone this repository to your local machine:
-    git clone https://github.com/yourusername/credit-card-fraud-detection.git
+    git clone https://github.com/Archit-10/credit-card-fraud-detection.git
 ii).Navigate to the project directory:
     cd credit-card-fraud-detection
 iii).Open and run the Jupyter Notebook credit_card_fraud_detection.ipynb:
