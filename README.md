@@ -24,7 +24,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn
 
 Usage
 i).Clone this repository to your local machine:
-    git clone https://github.com/Archit-10/credit-card-fraud-detection.git
+    git clone https://github.com/Archit-10/Credit_Card_Fraud_Detection/blob/main/Project_Credit_Card_Fraud_Detection.ipynb
 ii).Navigate to the project directory:
     cd credit-card-fraud-detection
 iii).Open and run the Jupyter Notebook credit_card_fraud_detection.ipynb:
